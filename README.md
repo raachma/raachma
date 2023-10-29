@@ -27,9 +27,8 @@ Here are some ideas to get you started:
   <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarefor-the-badge&logo=html5&logoColor=white"/> 
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squarefor-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-squarefor-the-badge&logo=sass&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&for-the-badge&logo=javascript&logoColor=F7DF1"/>
+<!--  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&for-the-badge&logo=javascript&logoColor=F7DF1"/>-->
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-F7B93E?style=flat-square&logo=Go&logoColor=blue" />
   </p>
