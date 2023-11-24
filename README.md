@@ -1,6 +1,6 @@
 <h1 align="center">
-  Oh Hello There, Ramma Here👋
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50" style='!important; object-fit:contain'>
+  Oh Hello There, Ramma Here
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="40" style='!important; object-fit:contain'>
 </h1>
 
 <!--
