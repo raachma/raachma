@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Want know about me? here it is
-- 🌱 I’m currently learning **Python**
+<!-- 🌱 I’m currently learning **Python**-->
 - 📫 How to reach me **rahmaliyah1201@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 
